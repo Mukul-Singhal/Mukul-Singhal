@@ -24,7 +24,7 @@ Hi, I'm Mukul Singhal, a <b>Full Stack Developer</b> 🚀 from India , currently
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on <b>Flick</b> (A Video Chat Web App)
+- 👨🏽‍💻 I’m currently working on a web application  <b>Flick</b> 
 - 🌱 I’m currently learning <b>AWS</b> and <b>Docker</b>
 - 👯 I’m looking to collaborate on Open Source Projects 🤝
 - 💬 Ask me about anything, I am happy to help;
