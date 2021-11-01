@@ -5,7 +5,7 @@
 <a href="https://discord.gg/Pr7JYP">
   <img align="left" alt="Mukul's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/MukulSi13325245">
+<a href="https://twitter.com/Mukul_Singhal_">
   <img align="left" alt="Mukul Singhal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mukul-singhal-417279188/">
