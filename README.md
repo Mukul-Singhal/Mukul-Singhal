@@ -24,8 +24,8 @@ Hi, I'm Mukul Singhal, a <b>Full Stack Developer</b> 🚀 from India , currently
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on a learning Full Stack Developement 
-- 🌱 I’m currently learning <b>AWS</b> and <b>TypeScript</b>
+- 👨🏽‍💻 I’m currently working on <b>Easy Learn </b>(an elearning marketplace)
+- 🌱 I’m currently learning <b>React</b> and <b>TypeScript</b>
 - 👯 I’m looking to collaborate on Open Source Projects 🤝
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I am a <b>Technophile</b> , want every gadget :laughing:
